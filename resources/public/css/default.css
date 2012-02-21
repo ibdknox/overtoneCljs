@@ -1,0 +1,17 @@
+body {background: #444; padding: 50px; color: #ccc; font-family:"Helvetica Neue"; }
+a { text-decoration:none; }
+    
+#wrapper { width:924px; margin: 0 auto; }
+
+.container { float:left; display:inline; }
+.button { padding: 15px 10px; min-width:50px; float:left; display:inline; border-radius: 20px; text-align:center; margin-right:10px; margin-bottom:10px; position:relative; font-size:24px; }
+
+#notes { width: 700px; }
+#controls { float:right; }
+#piano { width:100%; float:left; display:inline; margin-top: 50px; }
+
+#notes .button { color: #999999; background:#666666; width:55px; }
+#wobble .button { color: #99ff99; background:#66aa66; width:55px; }
+#controls .button { color: #ff9999; background: #aa6666; }
+#piano .button { color: #9999ff; background:#6666aa; }
+
