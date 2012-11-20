@@ -11,5 +11,5 @@
                          :output-to "resources/public/cljs/bootstrap.js"
                          :optimizations :simple
                          :pretty-print true}}
-  :main overtoneinterface.server)
+  :main ^ {:skip-aot true}  overtoneinterface.server)
 
