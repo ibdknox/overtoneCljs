@@ -1,7 +1,7 @@
 (defproject overtoneinterface "0.1.0-SNAPSHOT"
   :description "FIXME: write this!"
   :dependencies [[org.clojure/clojure "1.3.0"]
-                 [overtone "0.6.0"]
+                 [overtone "0.7.0"]
                  [jayq "0.1.0-SNAPSHOT"]
                  [crate "0.1.0-SNAPSHOT"]
                  [fetch "0.1.0-SNAPSHOT"]
